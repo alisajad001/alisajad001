@@ -1,6 +1,7 @@
 <h3 align="center">
   Welcome to Ali Sajad's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <p>A boy with a big dream</p>
 </h3>
 
 ---
@@ -9,7 +10,7 @@
 # 💫About Me :
 🔭 I’m currently working on my github page : https://github.com/alisajad001
   
-🌱 I’m currently Mastering: Javascript
+🌱 I’m currently Mastering: JavaScript
 
   👯 I’m looking to collaborate on my webpage
 
@@ -28,5 +29,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alisajad001&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alisajad001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=alisajad001&label=Visitors+Count&color=blue)
+![](https://komarev.com/ghpvc/?username=alisajad001&label=Visitors+Count&color=green)
 </div>
