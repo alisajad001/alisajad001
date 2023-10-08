@@ -8,7 +8,7 @@
 </div>
 
 ---
-<div align="center">
+<div>
   
 # 💫About Me :
 🔭 I’m currently working on my github page : https://github.com/alisajad001
@@ -21,7 +21,7 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "alisajadd7@gmail.com" or 
+  Twitter: @alisajad07
 
 
 
