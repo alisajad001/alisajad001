@@ -16,7 +16,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarhkVoyd/DarhkVoyd/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alisajad001/alisajad001/output/snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/alisajad001/alisajad001/output/snake.svg" />
   </picture>
 </div> 
