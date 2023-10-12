@@ -11,6 +11,15 @@
 <div>
   
 # 💫About Me :
+  ## Skills
+  - HTML5
+  - CSS3
+  - JavaScript ES6+
+  - React.js v16+
+  - Tailwind Css
+  - Figma
+  - Adobe Photoshop, Illustrator, XD
+  
 🔭 I’m currently working on my github page : https://github.com/alisajad001
   
 🌱 I’m currently Mastering: JavaScript
@@ -22,6 +31,7 @@
 
   📫 How to reach me:  
   Twitter: @alisajad07
+
 
 
 
