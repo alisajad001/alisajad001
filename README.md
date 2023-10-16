@@ -15,8 +15,8 @@
   - HTML5
   - CSS3
   - JavaScript ES6+
-  - React.js v16+
-  - Tailwind Css
+  - React.js v18
+  - Tailwind CSS
   - Figma
   - Adobe Photoshop, Illustrator, XD
   
