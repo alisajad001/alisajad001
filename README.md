@@ -20,7 +20,7 @@
   - Figma
   - Adobe Photoshop, Illustrator, XD
   
-🔭 I’m currently working on my github page : https://github.com/alisajad001
+🔭 I’m currently working on my portfolio website : https://alisajadahmadi.netlify.app
   
 🌱 I’m currently Mastering: JavaScript
 
