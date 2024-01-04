@@ -22,7 +22,7 @@
   
 🔭 I’m currently working on my portfolio website : https://alisajadahmadi.netlify.app
   
-🌱 I’m currently Mastering: JavaScript
+🌱 I’m currently learning: Full-stack development
 
   👯 I’m looking to collaborate on my webpage
 
