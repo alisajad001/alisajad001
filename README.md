@@ -16,6 +16,7 @@
   - CSS3
   - JavaScript ES6+
   - React.js v18
+  - Next.js
   - Tailwind CSS
   - Figma
   - Adobe Photoshop, Illustrator, XD
