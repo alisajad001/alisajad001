@@ -23,16 +23,7 @@
   - Adobe Photoshop, Illustrator, XD
   
 🔭 I’m currently working on my portfolio website : https://alisajadahmadi.netlify.app
-  
 🌱 I’m currently learning: Full-stack development
-
-  👯 I’m looking to collaborate on my webpage
-
-
-  💬 Ask me about for any help
-
-  📫 How to reach me:  
-  Twitter: @alisajad07
 
 
 
@@ -45,3 +36,11 @@
 
 ![](https://komarev.com/ghpvc/?username=alisajad001&label=Visitors+Count&color=green)
 </div>
+
+
+## 🔥 Streak
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alisajad001&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=alisajad001&theme=default"/>
+</picture>
