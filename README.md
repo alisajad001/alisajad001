@@ -17,6 +17,7 @@
   - CSS3
   - JavaScript ES6+
   - React.js v18
+  - React router
   - Next.js
   - Tailwind CSS
   - Figma
