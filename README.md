@@ -16,8 +16,10 @@
   - HTML5
   - CSS3
   - JavaScript ES6+
+  - Typescript
   - React.js v18
   - React router
+  - Redux
   - Next.js
   - Tailwind CSS
   - Figma
