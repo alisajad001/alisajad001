@@ -17,9 +17,11 @@
   - CSS3
   - JavaScript ES6+
   - Typescript
-  - React.js v18
+  - React.js v18+
+  - React Query
   - React router
   - Redux
+  - Axios data fetching
   - Next.js
   - Tailwind CSS
   - Figma
