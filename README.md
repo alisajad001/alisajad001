@@ -16,13 +16,13 @@
   - HTML5
   - CSS3
   - JavaScript ES6+
-  - Typescript
+  - Typescript - Currently Learning
   - React.js v18+
   - React Query
   - React router
-  - Redux
+  - Redux - Currently Learning
   - Axios data fetching
-  - Next.js
+  - Next.js - Currently Learning
   - Tailwind CSS
   - Figma
   - Adobe Photoshop, Illustrator, XD
