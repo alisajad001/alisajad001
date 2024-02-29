@@ -19,6 +19,7 @@
   - Typescript - Currently Learning
   - React.js v18+
   - React Query
+  - React Formik
   - React router
   - Redux - Currently Learning
   - Axios data fetching
