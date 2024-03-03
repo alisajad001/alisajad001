@@ -42,11 +42,3 @@
 
 ![](https://komarev.com/ghpvc/?username=alisajad001&label=Visitors+Count&color=green)
 </div>
-
-
-## 🔥 Streak
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alisajad001&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=alisajad001&theme=default"/>
-</picture>
