@@ -22,7 +22,6 @@
   - React Formik
   - React router
   - Axios data fetching
-  - Next.js - Currently Learning
   - Tailwind CSS
   - Figma
   - Adobe Photoshop, Illustrator, XD
