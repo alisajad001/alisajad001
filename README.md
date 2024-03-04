@@ -21,7 +21,6 @@
   - React Query
   - React Formik
   - React router
-  - Redux - Currently Learning
   - Axios data fetching
   - Next.js - Currently Learning
   - Tailwind CSS
