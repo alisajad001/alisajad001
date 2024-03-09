@@ -18,6 +18,7 @@
   - JavaScript ES6+
   - Typescript - Currently Learning
   - React.js v18+
+  - Next JS 14 - Learning
   - React Query
   - React Formik
   - React router
