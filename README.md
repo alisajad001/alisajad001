@@ -27,7 +27,6 @@
   - Figma
   - Adobe Photoshop, Illustrator, XD
   
-🔭 I’m currently working on my portfolio website : https://alisajadahmadi.netlify.app
 🌱 I’m currently learning: Full-stack development
 
 
