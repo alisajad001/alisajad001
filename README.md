@@ -22,10 +22,10 @@
   - Next JS 14 - Learning
   - React Query
   - React Formik
-  - React router
+  - React Router
   - Axios data fetching
   - Tailwind CSS
-  - Figma
+  - Figma (Designing)
   - Adobe Photoshop, Illustrator, XD
   
 🌱 I’m currently learning: Full-stack development
