@@ -12,9 +12,6 @@
 ---
 <div>
 
-## #30NitesOfCode:
-  ![@alisajad001 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=alisajad001)
-  
 # 💫About Me :
   ## Skills
   - HTML5
@@ -32,6 +29,10 @@
   - Adobe Photoshop, Illustrator, XD
   
 🌱 I’m currently learning: Full-stack development
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@alisajad001/30-nites-of-code)  
+  ![@alisajad001 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=alisajad001)
 
 
 
