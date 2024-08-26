@@ -37,5 +37,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=alisajad001&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alisajad001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href="https://app.daily.dev/alisajad"><img src="https://api.daily.dev/devcards/v2/03aRjGsvUaudF6vGbC0FE.png?type=wide&r=s0k" width="652" alt="Ali Sajad's Dev Card"/></a>
+
 ![](https://komarev.com/ghpvc/?username=alisajad001&label=Visitors+Count&color=green)
 </div>
