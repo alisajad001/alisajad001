@@ -17,18 +17,16 @@
   - HTML5
   - CSS3
   - JavaScript ES6+
-  - Typescript - Currently Learning
+  - Typescript
   - React.js v18+
-  - Next JS 14 - Learning
-  - React Query
-  - React Formik
-  - React Router
-  - Axios data fetching
+  - Next.js
+  - ShadCN
   - Tailwind CSS
-  - Figma (Designing)
+  - Storybook
+  - Figma
   - Adobe Photoshop, Illustrator, XD
   
-🌱 I’m currently learning: Full-stack development
+🌱 I’m currently learning: Three.js
 
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
